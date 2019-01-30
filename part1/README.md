@@ -1,6 +1,6 @@
 # TW Project -> https://tw.catalinc.com/
 ### Nume proiect : Worsie
-### Echipa: Catalin Crainiceanu | Vlad Alexandru Stefan
+### Echipa: Catalin Crainiceanu | Sandu Diana Alexandra | Vlad Alexandru Stefan
 ## Enunt proiect : 
 <p>Sa se implementeze o aplicatie Web oferind utilizatorilor autentificati posibilitatea realizarii de pariuri referitoare la cursele</p>
 <p>de cai. Aplicatia va permite vizualizarea unui istoric al pariurilor si al rezultatelor aferente pentru fiecare concurent</p>
